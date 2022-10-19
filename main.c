@@ -34,7 +34,6 @@ int main()
     return 0;
 }
 
-
 int gcd(int a, int b)
 {
     int t;
@@ -47,7 +46,6 @@ int gcd(int a, int b)
        return a;
 }
 
-
 float absoluteValue(float x)
 {
     if (x < 0)
@@ -55,7 +53,6 @@ float absoluteValue(float x)
 
     return x;
 }
-
 
 float squareRoot(float y)
 {
