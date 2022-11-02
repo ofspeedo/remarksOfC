@@ -32,7 +32,7 @@ void printItem(struct item *anana)
     printf("\nyour item total amount is %.2f", anana->amount);
 }
 
-int main()
+int main(void)
 {
     struct item apple, *banana;
 
